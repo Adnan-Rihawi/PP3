@@ -134,18 +134,21 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    ......
+    Ein # erzeugt eine Überschrift.Je mehr #, desto kleiner die Überschrift:
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    ......
+    *italic* or _italic_
+    **bold** or __bold__    
     </code>
 </details>
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    ......
+    Für ungeordnete Listen benutzt man -, * oder + vor einem Punkt.
+    Für geordnete Listen verwendet man Zahlen gefolgt von einem Punkt, zum Beispiel 1., 2., 3.
+    Tabellen werden mit senkrechten Strichen und Bindestrichen aufgebaut, indem man Spalten mit | trennt und die Kopfzeile mit --- unterstreicht
     </code>
 </details>
 
