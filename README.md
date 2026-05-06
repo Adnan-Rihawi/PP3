@@ -115,15 +115,15 @@ For more detailed information on SVG structure and elements, you can refer to th
     <summary>Your SVG Code</summary>
     <code>
     <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
+     <svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
 
-  <line x1="10" y1="10" x2="200" y2="10" stroke="black" stroke-width="2" />
+     <line x1="10" y1="10" x2="200" y2="10" stroke="black" stroke-width="2" />
 
-  <circle cx="100" cy="100" r="40" fill="red" />
+     <circle cx="100" cy="100" r="40" fill="red" />
 
-  <rect x="150" y="150" width="100" height="50" fill="blue" />
+     <rect x="150" y="150" width="100" height="50" fill="blue" />
 
-</svg>
+     </svg>
 
     </code>
 </details>
